@@ -15,7 +15,7 @@ I like to practice my machine learning skills on public datasets.
 ![](https://img.shields.io/badge/GCloud-blue)
 
 ### 🔭 I'm currently working on:
-- [Johorscrape](https://github.com/milkbottledude/woodlands-jb_tracker), a webapp that uses machine learning to predict congestion patterns along the Woodlands-JB Causeway for users.
+- [Johorscrape](https://github.com/milkbottledude/woodlands-jb_tracker), a webapp that uses machine learning to predict congestion patterns on the Woodlands-JB Causeway for users.
 
 ### 🌱 I'm currently learning:
 
