@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I like to practice my machine learning skills on public datasets.
+I practice my machine learning skills on public datasets in my spare time.
 
 **👨🏻‍💻 I usually work with:**
 
