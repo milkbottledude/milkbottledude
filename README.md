@@ -4,7 +4,10 @@ I like to practice my machine learning skills on public datasets.
 
 **👨🏻‍💻 I like working with:**
 
-[![My Skills](https://skillicons.dev/icons?i=python,sklearn,selenium,gcp&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python&theme=dark)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=sklearn&theme=dark)](https://scikit-learn.org/stable/)
+[![My Skills](https://skillicons.dev/icons?i=selenium&theme=dark)](https://www.selenium.dev/)
+[![My Skills](https://skillicons.dev/icons?i=gcp&theme=dark)](https://cloud.google.com/free?utm_source=google&utm_medium=cpc&utm_campaign=japac-SG-all-en-dr-BKWS-all-core-trial-EXA-dr-1710102&utm_content=text-ad-none-none-DEV_c-CRE_602258786551-ADGP_Hybrid+%7C+BKWS+-+EXA+%7C+Txt+-GCP-General-core+brand-main-KWID_43700071544383221-kwd-6458750523&userloc_9062521-network_g&utm_term=KW_google+cloud&gad_source=1&gclid=EAIaIQobChMIrIiTr8uNjAMVbqhmAh0puyPPEAAYASAAEgKmgPD_BwE&gclsrc=aw.ds)
 
 ![](https://img.shields.io/badge/Python-yellow)
 ![](https://img.shields.io/badge/Scikit--learn-darkorange)
@@ -16,10 +19,14 @@ I like to practice my machine learning skills on public datasets.
 
 ### 🌱 I'm currently learning:
 
-[![My Skills](https://skillicons.dev/icons?i=docker,tensorflow,html,css,js&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=tensorflow&theme=dark)](https://www.tensorflow.org/)
+[![My Skills](https://skillicons.dev/icons?i=docker&theme=dark)](https://www.docker.com/)
+[![My Skills](https://skillicons.dev/icons?i=html&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![My Skills](https://skillicons.dev/icons?i=css&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![My Skills](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-![](https://img.shields.io/badge/Docker-lightblue)
 ![](https://img.shields.io/badge/TensorFlow-darkorange)
+![](https://img.shields.io/badge/Docker-lightblue)
 ![](https://img.shields.io/badge/HTML-orange)
 ![](https://img.shields.io/badge/CSS-blue)
 ![](https://img.shields.io/badge/JavaScript-yellow)
@@ -33,6 +40,9 @@ I like to practice my machine learning skills on public datasets.
     <img src="https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
+
+### ⚡ Fun fact:
+- I'm a certified SAF lifeguard 🛟
 
 
 
