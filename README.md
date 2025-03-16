@@ -1,4 +1,4 @@
-<img width="856" alt="image" src="https://github.com/user-attachments/assets/6b3f478d-dc4c-406d-adce-95c99c27f8f5" />
+![GitHub Banner](GitHub_profile_banner.jpg)
 
 ## Hello World! 👋
 
