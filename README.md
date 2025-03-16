@@ -42,7 +42,7 @@ I like to practice my machine learning skills on public datasets.
 </div>
 
 ### ⚡ Fun fact:
-- I'm a certified SAF lifeguard! 🛟
+- I'm a certified SAF lifeguard! 🛟🦺
 
 
 
