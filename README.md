@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hello World! 👋
 
 I practice my machine learning skills on public datasets in my spare time.
 
-**👨🏻‍💻 I usually work with:**
+**👨🏻‍💻 Usually I work with:**
 
 [![My Skills](https://skillicons.dev/icons?i=python&theme=dark)](https://www.python.org/)
 [![My Skills](https://skillicons.dev/icons?i=sklearn&theme=dark)](https://scikit-learn.org/stable/)
@@ -14,10 +14,10 @@ I practice my machine learning skills on public datasets in my spare time.
 ![](https://img.shields.io/badge/Selenium-green)
 ![](https://img.shields.io/badge/GCloud-blue)
 
-### 🔭 Currently working on:
+#### 🔭 Currently working on:
 - [Johorscrape](https://github.com/milkbottledude/woodlands-jb_tracker), a fullstack webapp that uses machine learning to predict congestion patterns on the Woodlands-JB Causeway for users.
 
-### 🌱 Right now I'm learning:
+#### 🌱 Right now I'm learning:
 
 [![My Skills](https://skillicons.dev/icons?i=tensorflow&theme=dark)](https://www.tensorflow.org/)
 [![My Skills](https://skillicons.dev/icons?i=docker&theme=dark)](https://www.docker.com/)
@@ -31,10 +31,10 @@ I practice my machine learning skills on public datasets in my spare time.
 ![](https://img.shields.io/badge/CSS-blue)
 ![](https://img.shields.io/badge/JavaScript-yellow)
 
-### 🤔 I’m looking for help with:
+#### 🤔 I’m looking for help with:
 - automating of training image data annotation for [Johorscrape](https://github.com/milkbottledude/woodlands-jb_tracker) using YOLO
 
-### 📫 How to reach me:
+#### 📫 How to reach me:
 <div display="flex">
   <a href="https://t.me/milkbottledude">
     <img src="https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
