@@ -14,10 +14,10 @@ I practice my machine learning skills on public datasets in my spare time.
 ![](https://img.shields.io/badge/Selenium-green)
 ![](https://img.shields.io/badge/GCloud-blue)
 
-### 🔭 I'm currently working on:
+### 🔭 Currently working on:
 - [Johorscrape](https://github.com/milkbottledude/woodlands-jb_tracker), a fullstack webapp that uses machine learning to predict congestion patterns on the Woodlands-JB Causeway for users.
 
-### 🌱 I'm currently learning:
+### 🌱 Right now I'm learning:
 
 [![My Skills](https://skillicons.dev/icons?i=tensorflow&theme=dark)](https://www.tensorflow.org/)
 [![My Skills](https://skillicons.dev/icons?i=docker&theme=dark)](https://www.docker.com/)
