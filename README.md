@@ -1,4 +1,4 @@
-![GitHub Banner](GitHub_profile_banner.jpg)
+![GitHub Banner](GitHub_profile_banner_2.jpg)
 
 ## Hello World! 👋
 
