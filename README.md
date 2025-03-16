@@ -2,7 +2,7 @@
 
 I practice machine learning on public datasets in my spare time.
 
-**👨🏻‍💻 Usually I work with:**
+### 👨🏻‍💻 Usually, I work with:
 
 [![My Skills](https://skillicons.dev/icons?i=python&theme=dark)](https://www.python.org/)
 [![My Skills](https://skillicons.dev/icons?i=sklearn&theme=dark)](https://scikit-learn.org/stable/)
