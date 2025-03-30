@@ -42,6 +42,7 @@ I practice machine learning on public datasets in my spare time :)
     <img src="https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
+(it's an image hyperlink, you can click it)
 
 ### ⚡ Fun fact:
 - I'm a certified SAF lifeguard! 🛟🦺
