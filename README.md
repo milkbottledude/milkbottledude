@@ -18,7 +18,7 @@ I practice machine learning on public datasets in my spare time :)
 
 ### 🔭 Currently working on:
 - [Johorscrape](https://sapient-metrics-436909-v6.as.r.appspot.com/), a fullstack webapp that uses machine learning to predict congestion patterns on the Woodlands-JB Causeway for users.
-- [Chimken](https://github.com/milkbottledude/Project-Chimken), an online food ordering webapp for people who wish to beat the queue at Sing Soon Hainanese Chicken Rice stall by placing their order online and coming to pick up the food after its ready.
+- [scratchToRFR](https://github.com/milkbottledude/scratchToRFR), creating a Random Forest Regressor model from scratch in JavaScript.
 
 ### 🌱 Right now I'm learning:
 
