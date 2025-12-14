@@ -17,8 +17,8 @@ I practice machine learning on public datasets in my spare time :)
 ![](https://img.shields.io/badge/GCloud-blue)
 
 ### 🔭 Currently working on:
-- [scratchToRFR](https://github.com/milkbottledude/scratchToRFR), creating a Random Forest Regressor model from scratch in JavaScript.
 - [BAISmods](https://sapient-metrics-436909-v6.as.r.appspot.com/), a fullstack webapp for NUS BAIS students to plan their modules throughout all 8 semesters.
+- [scratchToRFR](https://github.com/milkbottledude/scratchToRFR), creating a Random Forest Regressor model from scratch in JavaScript.
 
 ### 🌱 Right now I'm learning:
 
