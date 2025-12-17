@@ -24,18 +24,16 @@ I practice machine learning on public datasets in my spare time :)
 
 [![My Skills](https://skillicons.dev/icons?i=tensorflow&theme=dark)](https://www.tensorflow.org/)
 [![My Skills](https://skillicons.dev/icons?i=docker&theme=dark)](https://www.docker.com/)
-[![My Skills](https://skillicons.dev/icons?i=html&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![My Skills](https://skillicons.dev/icons?i=css&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![My Skills](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ![](https://img.shields.io/badge/TensorFlow-darkorange)
 ![](https://img.shields.io/badge/Docker-lightblue)
-![](https://img.shields.io/badge/HTML-orange)
 ![](https://img.shields.io/badge/CSS-blue)
 ![](https://img.shields.io/badge/JavaScript-yellow)
 
 ### 🤔 I’m looking for help with:
-- automating of training image data annotation for [Johorscrape](https://github.com/milkbottledude/woodlands-jb_tracker) using YOLO
+- nothing at the moment :)
 
 ### 📫 How to reach me:
 <div display="flex">
