@@ -17,7 +17,7 @@ I practice machine learning on public datasets in my spare time :)
 ![](https://img.shields.io/badge/GCloud-blue)
 
 ### 🔭 Currently working on:
-- [BAISmods](https://github.com/milkbottledude/BAISmods), a fullstack webapp for NUS BAIS students to plan their modules throughout all 8 semesters.
+- [BAISmods](https://github.com/milkbottledude/BAISmods), a fullstack [webapp](https://baismods.onrender.com/) for NUS BAIS students to plan their modules throughout all 8 semesters.
 - [scratchToRFR](https://github.com/milkbottledude/scratchToRFR), creating a Random Forest Regressor model from scratch in JavaScript.
 
 ### 🌱 Right now I'm learning:
