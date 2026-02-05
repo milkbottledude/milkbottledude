@@ -33,7 +33,7 @@ I practice machine learning on public datasets in my spare time :)
 ![](https://img.shields.io/badge/JavaScript-yellow)
 
 ### 🤔 I’m looking for help with:
-- nothing at the moment :)
+- Ubuntu and Linux 🥲
 
 ### 📫 How to reach me:
 <div display="flex">
