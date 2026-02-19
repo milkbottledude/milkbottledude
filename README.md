@@ -17,23 +17,21 @@ I practice machine learning on public datasets in my spare time :)
 ![](https://img.shields.io/badge/GCloud-blue)
 
 ### 🔭 Currently working on:
+- [Fwen](https://github.com/milkbottledude/Fwen), a React Native apk app UI connected to a locally hosted (private) LLM AI model. Features include chatbot mode, agentic notetaking (cmg soon!), and an interactive alarm clock (cmg soon!).
 - [BAISmods](https://github.com/milkbottledude/BAISmods), a fullstack [webapp](https://baismods.onrender.com/) for NUS BAIS students to plan their modules throughout all 8 semesters.
-- [scratchToRFR](https://github.com/milkbottledude/scratchToRFR), creating a Random Forest Regressor model from scratch in JavaScript.
 
 ### 🌱 Right now I'm learning:
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow&theme=dark)](https://www.tensorflow.org/)
+![My Skills](https://skillicons.dev/icons?i=react&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=sqlite&theme=dark)
 [![My Skills](https://skillicons.dev/icons?i=docker&theme=dark)](https://www.docker.com/)
-[![My Skills](https://skillicons.dev/icons?i=css&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![My Skills](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-![](https://img.shields.io/badge/TensorFlow-darkorange)
-![](https://img.shields.io/badge/Docker-lightblue)
-![](https://img.shields.io/badge/CSS-blue)
-![](https://img.shields.io/badge/JavaScript-yellow)
+![](https://img.shields.io/badge/React_Native-grey)
+![](https://img.shields.io/badge/SQLite-lightblue)
+![](https://img.shields.io/badge/Docker-blue)
 
 ### 🤔 I’m looking for help with:
-- Ubuntu and Linux 🥲
+- Cloudflare and VPNs 😫
 
 ### 📫 How to reach me:
 <div display="flex">
