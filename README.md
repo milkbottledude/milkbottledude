@@ -17,7 +17,7 @@ I practice machine learning on public datasets in my spare time :)
 ![](https://img.shields.io/badge/GCloud-blue)
 
 ### 🔭 Currently working on:
-- [Fwen](https://github.com/milkbottledude/Fwen), a React Native apk app UI connected to a locally hosted (private) and tuned LLM AI model. Features a chatbot and other agentic capabilities.
+- [Fwen](https://github.com/milkbottledude/Fwen), a React Native apk app for the elderly. Features a chatbot (LLM is locally hosted on old desktop server), a medicine scanner, and medicine reminder.
 - [BAISmods](https://github.com/milkbottledude/BAISmods), a fullstack [webapp](https://baismods.onrender.com/) for NUS BAIS students to plan their modules throughout all 8 semesters.
 
 ### 🌱 Right now I'm learning:
